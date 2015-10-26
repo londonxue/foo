@@ -12,9 +12,6 @@
 #import "TestRecord.h"
 #import "CTPersistanceConfiguration.h"
 
-#import "MigrationStep1_0.h"
-#import "MigrationStep2_0.h"
-
 @implementation TestMigrator
 
 #pragma mark - CTPersistanceMigratorProtocol
